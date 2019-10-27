@@ -103,6 +103,26 @@ All Angular 8 topics index
     <li><a href="javascript:;" title="Dynamic Import">Dynamic Import</a></li>
     <li><a href="javascript:;" title="Differential loading">Differential loading</a></li>
     <li><a href="javascript:;" title="Environment file">Environment file</a></li>
+    <li><a href="javascript:;" title="Analyzing main.ts - Bootstrapping">Analyzing main.ts - Bootstrapping</a></li>
+    <li><a href="javascript:;" title="Internationalization">Internationalization</a></li>
+    <li><a href="javascript:;" title="Web Worker">Web Worker</a></li>
+    <li><a href="javascript:;" title="Service Worker & PWA">Service Worker & PWA</a></li>
+    <li><a href="javascript:;" title="AOT vs JIT">AOT vs JIT</a></li>
+    <li><a href="javascript:;" title="Performance - LightHouse tool">Performance - LightHouse tool</a></li>
+    <li><a href="javascript:;" title="Unit Testing">Unit Testing</a>
+      <ul>
+        <li><a href="javascript:;" title="Spec file testing">Spec file testing</a></li>
+        <li><a href="javascript:;" title="Jasmine / Karma">Jasmine / Karma</a></li>
+      </ul>
+    </li>
+    <li><a href="javascript:;" title="Polyfill.ts and Zone.js">Polyfill.ts and Zone.js</a></li>
+    <li><a href="javascript:;" title="Angular CLI">Angular CLI</a></li>
+    <li><a href="javascript:;" title="Angular Update">Angular Update</a></li>
+    <li><a href="javascript:;" title="Deployment - Angular Prod Development (Jenkins and GIT)">Deployment - Angular Prod Development (Jenkins and GIT)</a></li>
+    <li><a href="javascript:;" title="Server-Side Rendering (SSR)">Server-Side Rendering (SSR)</a></li>
+    <li><a href="javascript:;" title="Paths in tsconfig.json?">Paths in tsconfig.json?</a></li>
+    <li><a href="javascript:;" title="NGRX">NGRX</a></li>
+    <li><a href="javascript:;" title="Angular 7 and 8 New features">Angular 7 and 8 New features</a></li>
 </ol>
 
 ### References
