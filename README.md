@@ -84,8 +84,25 @@ All Angular 8 topics index
         <li><a href="javascript:;" title="Custom Pipes">Custom Pipes</a></li>
       </ul>
     </li>
-    <li><a href="javascript:;" title="Services ">Services</a></li>
-  </li>
+    <li><a href="javascript:;" title="Services">Services</a></li>
+    <li><a href="javascript:;" title="Http Client">Http Client</a>
+      <ul>
+        <li><a href="javascript:;" title="API Integration">API Integration</a></li>
+        <li><a href="javascript:;" title="Error Handling">Error Handling</a></li>
+        <li><a href="javascript:;" title="Authentication vs Authorization">Authentication and Authorization</a></li>
+      </ul>
+    </li>
+    <li><a href="javascript:;" title="DI (Dependency Injection)">DI (Dependency Injection)</a></li>
+    <li><a href="javascript:;" title="Lazy Loading">Lazy Loading</a></li>
+    <li><a href="javascript:;" title="Observables, Observer and Subscription">Observables, Observer and Subscription</a></li>
+    <li><a href="javascript:;" title="HostListener & HostBinding">HostListener & HostBinding</a></li>
+    <li><a href="javascript:;" title="Routing">Routing</a></li>
+    <li><a href="javascript:;" title="App Initializer">App Initializer</a></li>
+    <li><a href="javascript:;" title="Angular Interceptor">Angular Interceptor</a></li>
+    <li><a href="javascript:;" title="IVY">IVY</a></li>
+    <li><a href="javascript:;" title="Dynamic Import">Dynamic Import</a></li>
+    <li><a href="javascript:;" title="Differential loading">Differential loading</a></li>
+    <li><a href="javascript:;" title="Environment file">Environment file</a></li>
 </ol>
 
 ### References
