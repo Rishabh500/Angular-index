@@ -77,6 +77,14 @@ All Angular 8 topics index
        </li>
       <li><a href="javascript:;" title="Template Driven Form">Template Driven Form</a></li>
     </ul>
+    <li><a href="javascript:;" title="viewEncapsulation">viewEncapsulation</a></li>
+    <li><a href="javascript:;" title="Pipe">Pipe</a>
+      <ul>
+        <li><a href="javascript:;" title="Pure and impure pipes">Pure and impure pipes</a></li>
+        <li><a href="javascript:;" title="Custom Pipes">Custom Pipes</a></li>
+      </ul>
+    </li>
+    <li><a href="javascript:;" title="Services ">Services</a></li>
   </li>
 </ol>
 
