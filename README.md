@@ -3,6 +3,7 @@ All Angular 8 topics index
 
 <ol>
   <li><a href="javascript:;" title="What is Angular?">What is Angular?</a></li>
+  <li><a href="https://github.com/suryansh54/rxjs" title="Basic RXJS learning">Basic RXJS learning before Angular</a></li>
   <li><a href="javascript:;" title="Angular Architecture">Angular Architecture</a>
     <ul>
       <li><a href="javascript:;" title="angular.json">angular.json</a></li>
