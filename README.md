@@ -146,7 +146,14 @@
         <li><a href="javascript:;" title="Deployment - Angular Prod Development (Jenkins and GIT)">Deployment - Angular Prod Development (Jenkins and GIT)</a></li>
         <li><a href="javascript:;" title="Server-Side Rendering (SSR)">Server-Side Rendering (SSR)</a></li>
         <li><a href="javascript:;" title="Paths in tsconfig.json?">Paths in tsconfig.json?</a></li>
-        <li><a href="javascript:;" title="NGRX">NGRX</a></li>
+        <li><a href="javascript:;" title="NGRX">NGRX</a>
+            <ul>
+                <li><a href="javascript:;" title="Store">Store</a></li>
+                <li><a href="javascript:;" title="Action">Action</a></li>
+                <li><a href="javascript:;" title="Reducer">Reducer</a></li>
+                <li><a href="javascript:;" title="Dispatch">Dispatch</a></li>
+            </ul>
+        </li>
         <li><a href="javascript:;" title="Angular 7 and 8 New features">Angular 7 and 8 New features</a></li>
 </ol>
 
