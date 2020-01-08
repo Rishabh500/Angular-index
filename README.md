@@ -1,4 +1,4 @@
-# Angular 8 topics All Angular 8 topics index
+# Angular 8 topics
 
 <ol>
     <li><a href="javascript:;" title="What is Angular?">What is Angular?</a></li>
