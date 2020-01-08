@@ -111,6 +111,7 @@
                  </li>
             </ul>
         </li>
+        <li><a href="javascript:;" title="App Initializer">ng-content (Content Projection), ng-template, ng-container</a></li>
         <li><a href="javascript:;" title="App Initializer">App Initializer</a></li>
         <li><a href="javascript:;" title="Angular Interceptor">Angular Interceptor</a></li>
         <li><a href="javascript:;" title="Bazel">Bazel</a></li>
