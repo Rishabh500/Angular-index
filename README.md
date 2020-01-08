@@ -91,7 +91,16 @@
             <ul>
                 <li><a href="javascript:;" title="API Integration">API Integration</a></li>
                 <li><a href="javascript:;" title="Error Handling">Error Handling</a></li>
-                <li><a href="javascript:;" title="Authentication vs Authorization">Authentication and Authorization</a></li>
+            </ul>
+        </li>
+        <li><a href="javascript:;" title="Authentication vs Authorization">Authentication and Authorization</a>
+            <ul>
+                <li><a href="javascript:;" title="Auth guard/Route guard">Auth guard/Route guard</a>
+                    <ul>
+                        <li><a href="javascript:;" title="CanActivate and CanActivateChild">CanActivate and CanActivateChild</a></li>
+                    </ul>
+                </li>
+                <li><a href="javascript:;" title="Interceptor">Interceptor</a></li>
             </ul>
         </li>
         <li><a href="javascript:;" title="DI (Dependency Injection)">DI (Dependency Injection)</a></li>
@@ -104,11 +113,11 @@
                 <li><a href="javascript:;" title="Wildcard route">Wildcard route</a></li>
                 <li><a href="javascript:;" title="Child Routes">Child Routes</a></li>
                 <li><a href="javascript:;" title="Angular Route Resolvers">Angular Route Resolvers</a>
-                   <ul>
-                      <li><a href="javascript:;" title="RouterStateSnapshot">RouterStateSnapshot</a></li>
-                      <li><a href="javascript:;" title="ActivatedRouteSnapshot">ActivatedRouteSnapshot</a></li>
-                  </ul>
-                 </li>
+                    <ul>
+                        <li><a href="javascript:;" title="RouterStateSnapshot">RouterStateSnapshot</a></li>
+                        <li><a href="javascript:;" title="ActivatedRouteSnapshot">ActivatedRouteSnapshot</a></li>
+                    </ul>
+                </li>
             </ul>
         </li>
         <li><a href="javascript:;" title="App Initializer">ng-content (Content Projection), ng-template, ng-container</a></li>
