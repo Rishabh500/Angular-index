@@ -17,6 +17,7 @@
             <li><a href="javascript:;" title="Optional values (.?)">Optional values (.?)</a></li>
         </ul>
     </li>
+    <li><a href="javascript:;" title="Template Reference Variable">Template Reference Variable</a></li>
     <li><a href="javascript:;" title="Lifecycle Hooks">Lifecycle Hooks</a>
         <ul>
             <li><a href="javascript:;" title="ngOnChanges()">ngOnChanges()</a></li>
@@ -104,6 +105,11 @@
             </ul>
         </li>
         <li><a href="javascript:;" title="DI (Dependency Injection)">DI (Dependency Injection)</a></li>
+        <li><a href="javascript:;" title="Dynamic Component">Dynamic Component</a>
+            ul>
+                <li><a href="javascript:;" title="Component Factory Resolver">Component Factory Resolver</a></li>
+            </ul>
+        </li>
         <li><a href="javascript:;" title="Lazy Loading">Lazy Loading</a></li>
         <li><a href="javascript:;" title="Observables, Observer and Subscription">Observables, Observer and Subscription</a></li>
         <li><a href="javascript:;" title="HostListener & HostBinding">HostListener & HostBinding</a></li>
