@@ -161,7 +161,7 @@
                 <li><a href="javascript:;" title="Dispatch">Dispatch</a></li>
             </ul>
         </li>
-        <li><a href="javascript:;" title="Angular 7 and 8 New features">Angular 7 and 8 New features</a></li>
+        <li><a href="javascript:;" title="Angular 7 and 8 New features">Angular 7, 8 and 9 New features</a></li>
 </ol>
 
 ### References - <a href="https://www.w3resource.com/angular/getting-started-with-angular.php " title="Getting started with Angular">Getting started with Angular</a> - <a href="https://codecraft.tv/courses/angular/dependency-injection-and-providers/overview" title="Dependency Injection">Dependency Injection</a>
