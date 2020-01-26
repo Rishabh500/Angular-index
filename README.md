@@ -136,8 +136,12 @@
         <li><a href="javascript:;" title="App Initializer">ng-content (Content Projection), ng-template, ng-container</a></li>
         <li><a href="javascript:;" title="App Initializer">App Initializer</a></li>
         <li><a href="javascript:;" title="Angular Interceptor">Angular Interceptor</a></li>
-        <li><a href="javascript:;" title="Bazel">Bazel</a></li>
-        <li><a href="javascript:;" title="IVY">IVY</a></li>
+        <li><a href="javascript:;" title="Building Angular applications">Building Angular applications</a>
+            <ul>
+                <li><a href="javascript:;" title="Bazel">Bazel</a></li>
+                <li><a href="javascript:;" title="IVY">IVY</a></li>
+            </ul>
+        </li>
         <li><a href="javascript:;" title="Dynamic Import">Dynamic Import</a></li>
         <li><a href="javascript:;" title="Differential loading">Differential loading</a></li>
         <li><a href="javascript:;" title="Environment file">Environment file</a></li>
