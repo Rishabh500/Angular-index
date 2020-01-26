@@ -111,7 +111,13 @@
                 <li><a href="javascript:;" title="Component Factory Resolver">Component Factory Resolver</a></li>
             </ul>
         </li>
-        <li><a href="javascript:;" title="Lazy Loading">Lazy Loading</a></li>
+        <li><a href="javascript:;" title="Angular Module Loading: Eager, Lazy and Preloading">Angular Module Loading</a>
+            <ul>
+                <li><a href="javascript:;" title="Component Factory Resolver">Eager Loading</a></li>
+                <li><a href="javascript:;" title="Component Factory Resolver">Lazy Loading</a></li>
+                <li><a href="javascript:;" title="Component Factory Resolver">Preloading Loading</a></li>
+            </ul>
+        </li>
         <li><a href="javascript:;" title="Observables, Observer and Subscription">Observables, Observer and Subscription</a></li>
         <li><a href="javascript:;" title="HostListener & HostBinding">HostListener & HostBinding</a></li>
         <li><a href="javascript:;" title="ChangeDetectionStrategy & ChangeDetectorRef">ChangeDetectionStrategy & ChangeDetectorRef</a></li>
