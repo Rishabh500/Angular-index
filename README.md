@@ -107,7 +107,7 @@
         </li>
         <li><a href="javascript:;" title="DI (Dependency Injection)">DI (Dependency Injection)</a></li>
         <li><a href="javascript:;" title="Dynamic Component">Dynamic Component</a>
-            ul>
+            <ul>
                 <li><a href="javascript:;" title="Component Factory Resolver">Component Factory Resolver</a></li>
             </ul>
         </li>
