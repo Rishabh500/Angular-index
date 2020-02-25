@@ -19,7 +19,7 @@
         </ul>
     </li>
     <li><a href="javascript:;" title="Template Reference Variable">Template Reference Variable</a></li>
-    <li><a href="javascript:;" title="Lifecycle Hooks">Lifecycle Hooks</a>
+    <li><a href="javascript:;" title="https://github.com/suryansh54/angular-lifecyclehooks">Lifecycle Hooks</a>
         <ul>
             <li><a href="javascript:;" title="ngOnChanges()">ngOnChanges()</a></li>
             <li><a href="javascript:;" title="ngOnInit()">ngOnInit()</a></li>
@@ -59,7 +59,7 @@
         </ul>
     </li>
     <li><a href="javascript:;" title="Interface">Interface</a></li>
-    <li><a href="javascript:;" title="Forms">Forms</a>
+    <li><a href="https://github.com/suryansh54/angular-form" title="Forms">Forms</a>
         <ul>
             <li><a href="javascript:;" title="Reactive Form">Reactive Form</a>
                 <ul>
