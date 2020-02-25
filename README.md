@@ -113,9 +113,9 @@
         </li>
         <li><a href="javascript:;" title="Angular Module Loading: Eager, Lazy and Preloading">Angular Module Loading</a>
             <ul>
-                <li><a href="javascript:;" title="Component Factory Resolver">Eager Loading</a></li>
-                <li><a href="javascript:;" title="Component Factory Resolver">Lazy Loading</a></li>
-                <li><a href="javascript:;" title="Component Factory Resolver">Preloading Loading</a></li>
+                <li><a href="javascript:;" title="Eager Loading">Eager Loading</a></li>
+                <li><a href="javascript:;" title="Lazy Loading">Lazy Loading</a></li>
+                <li><a href="javascript:;" title="Pre Loading">Pre Loading</a></li>
             </ul>
         </li>
         <li><a href="javascript:;" title="Observables, Observer and Subscription">Observables, Observer and Subscription</a></li>
@@ -125,7 +125,7 @@
             <ul>
                 <li><a href="javascript:;" title="Wildcard route">Wildcard route</a></li>
                 <li><a href="javascript:;" title="Child Routes">Child Routes</a></li>
-                <li><a href="javascript:;" title="Angular Route Resolvers">Angular Route Resolvers</a>
+                <li><a href="https://github.com/suryansh54/angular-route-resolver" title="Angular Route Resolvers">Angular Route Resolvers</a>
                     <ul>
                         <li><a href="javascript:;" title="RouterStateSnapshot">RouterStateSnapshot</a></li>
                         <li><a href="javascript:;" title="ActivatedRouteSnapshot">ActivatedRouteSnapshot</a></li>
